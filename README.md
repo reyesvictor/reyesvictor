@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Portfolio: https://reyesvictor.github.io/#/
+- Linkedin: https://www.linkedin.com/in/reyes-victor/
+
 <!--
 **reyesvictor/reyesvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
